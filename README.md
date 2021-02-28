@@ -1,4 +1,4 @@
 # mongod 
 then in new terminal
-#mongo
+# mongo
 they both should be in same directory
